@@ -1,4 +1,4 @@
-# Log Analysis & Security Monitoring Lab
+# Log Analysis & Security Monitoring Lab Overview
 
 ## Overview
 This lab focuses on analyzing system log files in Windows and Kali Linux
