@@ -6,11 +6,11 @@ Graduate student in IT and Cybersecurity with hands-on experience in network ana
 
 ## Highlighted Labs
 
-### 🔐 Security Labs
+### Security Labs
 - Intrusion Detection with SNORT
 - Log Analysis & Security Monitoring
 - Vulnerability Analysis (Nmap & Sparta)
 
-### 🌐 Networking Labs
+### Networking Labs
 - iPerf3 Bandwidth & Throughput Analysis
 - Mininet & Wireshark Traffic Analysis
